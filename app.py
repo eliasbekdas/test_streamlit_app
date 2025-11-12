@@ -1,4 +1,6 @@
 import streamlit as st
+import pandas as pd
+import plotly.express as px
 
 st.title("Test App")
 st.write("This is a test app for Streamlit WITH GITHUB.")
